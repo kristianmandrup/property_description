@@ -1,0 +1,3 @@
+module PropertyDescription
+  VERSION = "0.0.1"
+end
