@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
   s.summary     = "Description package for Property"
   s.description = "Property Description functionality"
 
-  s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.md"]
+  s.files = Dir["{app,config,db,lib}/**/*"] + ["LICENSE", "Rakefile", "README.md"]
 
   # s.add_dependency "rails", "~> 3.2.13.rc2"
   # s.add_dependency "jquery-rails"

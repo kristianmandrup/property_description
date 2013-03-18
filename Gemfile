@@ -18,11 +18,6 @@ gem 'sugar-high', '~> 0.7.3', github: 'kristianmandrup/sugar-high'
 
 gem 'hashie',     '~> 2.0'
 gem 'concerned',  '~> 0.1.6'
-gem 'rails_config_loader',  '>= 0.1.4'
-
-gem 'origin-selectable_ext'
-
-gem 'timespan', '>= 0.5.6', github: 'kristianmandrup/timespan'
 
 gem "rspec-rails", :group => [:test, :development]
 
