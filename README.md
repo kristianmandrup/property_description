@@ -10,3 +10,7 @@ Description engine for Property.
 
 * Enable auto-translation via Google translate API or similar
 * Multiple translations (can) be saved for the title and description, fx for use in localized text search
+
+## Copyright
+
+See LICENSE file
